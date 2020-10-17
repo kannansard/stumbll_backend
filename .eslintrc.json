@@ -1,0 +1,9 @@
+{
+  "extends": "@hapi/eslint-config-hapi",
+  "rules": {
+    "no-else-return": 0
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020
+  }
+}
